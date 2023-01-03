@@ -5,6 +5,36 @@
 	font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
 	
 }
+h1{
+	text-align: center;
+	margin: 1em 0;
+}
 .content{
+	margin: 1em;
 	display: flex;
+	border:1px solid gray;
+	padding: 1em 0;
+	text-align: center;
+	justify-content: center;
+}
+.container{
+	width: 80%;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	
+}
+.emailid{
+	padding: 1em;
+}
+.saveid{
+	padding: 1em;
+}
+.row{
+	border: 2px solid gray;
+	border-radius: 1em;
+	padding: 1em;
+}
+.para{
+	padding: 0 1em;
 }
